@@ -1,4 +1,4 @@
-# Game Store App
+# Game Shop App
 
 Ova aplikacija omogućava istraživanje, pregledavanje i kupovinu različitih igara kroz različite funkcije.
 
